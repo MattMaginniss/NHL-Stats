@@ -8,7 +8,9 @@ All credit goes to the aforementioned  [MoneyPuck.com](http://moneypuck.com) and
 
 ## File Structure Basics
 
-There are 4 different sets of data:
+There are two folders of raw data. regular-season and playoffs. Possibly obviously, the files in each folder will either be regular season stats or palyoff stats.
+
+Inside those folders, there are 4 different sets of data:
 
 1. "teams-alltime" folder holds teams "All-Time" stats. Each file is a Game-by-Game breakdown of data from a specific team from 2008 to now.
 
